@@ -1,0 +1,22 @@
+References
+
+[1] Modify components of a theme
+http://ggplot2.tidyverse.org/reference/theme.html
+
+[2] R function of the day: Cut
+https://www.r-bloggers.com/r-function-of-the-day-cut-2/
+
+[3] Using Correlations to understand your data: Machine learning with R
+https://www.youtube.com/watch?v=igPQ-pI8Bjo
+
+[4] Merge two colums of a dataset to a single column
+https://stackoverflow.com/questions/28145525/merge-two-factor-columns-in-r
+
+[5] Various manipulation around the legend in ggplot2
+https://rstudio-pubs-static.s3.amazonaws.com/10012_71474d97e1a842ceacacf901375668cd.html
+
+[6] ggcorr: correlation matrixes with ggplot2
+https://briatte.github.io/ggcorr/#controlling-the-coefficient-labels
+
+[7] Detecting outliers
+http://www.public.iastate.edu/~maitra/stat501/lectures/Outliers.pdf
